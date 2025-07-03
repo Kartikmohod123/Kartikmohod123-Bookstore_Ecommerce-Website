@@ -1,0 +1,35 @@
+.admin-login-page {
+  padding: 40px 0;
+}
+
+.admin-login-page h2 {
+  margin-bottom: 30px;
+}
+
+.admin-login-page .form-group {
+  margin-bottom: 15px;
+}
+
+.admin-login-page .form-control {
+  height: calc(2.5rem + 2px);
+  padding: 0.75rem 1.25rem;
+}
+
+.admin-login-page .btn-primary {
+  padding: 0.75rem 1.25rem;
+}
+
+.admin-login-page .options {
+  margin-top: 20px;
+}
+
+.admin-login-page .option-link {
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.admin-login-page .option-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,23 @@
+/* header.css */
+
+.home-header {
+    background-image: url('https://utulsa.edu/wp-content/uploads/2024/01/geometric-design-base-1200x460-1-1200x455.jpg'); /* Replace with your image path */
+    background-size: cover; /* Cover the entire header */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    color: black; /* White text color */
+    text-align: center; /* Center-align the text */
+    padding: 25px 0; /* Add padding */
+}
+
+.header-content {
+    position: relative; /* Position content relative to its normal position */
+    z-index: 1; /* Ensure content is above the background image */
+}
+
+.home-header h1 {
+    font-family: 'Bodoni Moda', serif; /* Use Bodoni Moda font */
+    font-weight: bold; /* Bold font weight */
+    font-size: 3rem; /* Large font size */
+    margin: 0; /* Remove default margin */
+}

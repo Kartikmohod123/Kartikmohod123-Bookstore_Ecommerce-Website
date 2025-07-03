@@ -1,0 +1,60 @@
+/* centered-image-text.css */
+
+/* Ensure full height of viewport */
+
+body {
+  height: 100%;
+}
+
+/* Center content vertically and horizontally */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.container{
+  margin: 0%;/* centered-image-text.css */
+
+  /* Ensure full height of viewport */
+  
+  body {
+    height: 100%;
+  }
+  
+  /* Center content vertically and horizontally */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+  }
+  
+  .container{
+    margin: 0%;
+    padding: 700px;
+  }
+  .container h2 {
+    font-size: 3rem; /* Adjust heading font size */
+    font-weight: bold; /* Make heading bold */
+    margin-bottom: 30px; /* Add space below the heading */
+  }
+  
+  .container p {
+    font-size: 3rem; /* Adjust paragraph font size */
+    line-height: 3.5; /* Adjust line height for readability */
+  }
+  padding: 700px;
+}
+.container h2 {
+  font-size: 3rem; /* Adjust heading font size */
+  font-weight: bold; /* Make heading bold */
+  margin-bottom: 30px; /* Add space below the heading */
+}
+
+.container p {
+  font-size: 3rem; /* Adjust paragraph font size */
+  line-height: 3.5; /* Adjust line height for readability */
+}
+

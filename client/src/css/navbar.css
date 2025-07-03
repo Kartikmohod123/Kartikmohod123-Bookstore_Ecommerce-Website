@@ -1,0 +1,17 @@
+/* navbar.css */
+
+/* Add space between the link containers */
+.navbar-nav .nav-link {
+  margin-right: 15px;
+}
+
+/* Ensure the navbar brand and links are properly spaced and aligned */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Make sure the right side elements are aligned properly */
+.ms-auto {
+  margin-left: auto !important;
+}
